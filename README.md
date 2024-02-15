@@ -1,4 +1,4 @@
-#Object-Oriented Programing - Lab 7 - CST8219 - Algonquin College - Computer Engineering - Computing Science
+#Object-Oriented Programing - Lab 8 - CST8219 - Algonquin College - Computer Engineering - Computing Science
 
 -  Integrate file input/output into an existing bank application.
 -  Use java.util.Scanner for inputting records from "bankinput.txt".
